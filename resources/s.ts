@@ -363,6 +363,23 @@ export const resources: Resource[] = [
         url: 'https://www.slowandsteadypodcast.com/',
     },
     {
+        name: 'SmartParse',
+        description:
+            'SmartParse is a tool that simplifies data migration from any flat file to any API with minimal setup, offering a quick, low-code solution for integrating systems. With high scalability, it can manage files from a few rows to millions of lines.',
+        categories: ['Productivity', 'Programming'],
+        url: 'https://smartparse.io',
+        keywords: [
+            'SaaS',
+            'SFTP',
+            'API',
+            'development',
+            'CSV',
+            'Developer Tools',
+            'Data Migration',
+            'Data Onboarding'
+        ]
+    },
+    {
         name: 'Smash',
         categories: ['Illustration'],
         description: 'Changing and overlapping them, you can quickly illustrate an idea of your startup.',
